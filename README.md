@@ -13,9 +13,19 @@
 
 ![image](https://user-images.githubusercontent.com/112348240/196016508-344a0b9e-2a50-49d2-8c15-3d90b3ce571e.png)
 
+![image](https://user-images.githubusercontent.com/112348240/196016817-04c7df62-4701-4c60-853d-fc82c5081448.png)
+
+# Creating a Clear Worksheet Button as well as Run Analysis one
+
+![image](https://user-images.githubusercontent.com/112348240/196017185-ba879d92-000f-41ff-8ca2-d51c81134186.png)
+
 
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/112348240/196000710-a57602ca-ad8f-4169-b0e6-5429fc37e24e.png)
 
 
+
 ![image](https://user-images.githubusercontent.com/112348240/196001670-e9cd1068-5e52-43aa-85e3-e31f6adf3095.png)
+
+![image](https://user-images.githubusercontent.com/112348240/196017695-3c3fc3ab-1de9-419a-a5da-f14065efbd00.png)
+
